@@ -1,0 +1,24 @@
+.titulo-principal {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 40rem;
+    padding-bottom: 1rem;
+}
+
+.paginas-conteiner a {
+    margin-left: 2rem;
+    padding: 1rem;
+    background-color: #2e3239;
+    border-radius: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
