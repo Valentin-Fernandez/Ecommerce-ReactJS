@@ -1,18 +1,18 @@
 .titulo-principal {
     font-weight: bold;
     text-transform: uppercase;
+    margin-left: 1.5rem;
 }
 
 nav {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
     align-items: center;
-    gap: 40rem;
     padding-bottom: 1rem;
 }
 
 .paginas-conteiner a {
-    margin-left: 2rem;
+    margin: 1rem;
     padding: 1rem;
     background-color: #2e3239;
     border-radius: 10px;

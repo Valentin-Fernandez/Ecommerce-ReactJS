@@ -1,0 +1,37 @@
+.conteiner-carrito {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3rem;
+    background-color: #2e3239;
+    border-radius: 10px;
+    padding: 1rem;
+    margin: 0rem 1rem;
+    max-width: 1000px;
+    min-width: 100px;
+    margin: 0 auto;
+}
+
+.conteiner {
+    margin: 1rem;
+}
+
+.conteiner-carrito p {
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.conteiner-carrito h2 {
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.conteiner-carrito button {
+    background-color: #23272e;
+    color: white;
+    border: none;
+    padding: 1rem;
+    border-radius: 10px;
+}
